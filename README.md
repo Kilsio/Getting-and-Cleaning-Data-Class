@@ -2,6 +2,8 @@
 
 This repository contains the R code, data files, and documentation for the class project for Getting and Cleaning Data Course on Coursera through John Hopkins University. 
 
+The run_analysis.R script which will accomplish the requirements given below and if run must have the text files within the working directory. The Codebook will provide more details on the files and described the methodolgy for the R script.
+
 
 The instructions for the assignment are below:
 
