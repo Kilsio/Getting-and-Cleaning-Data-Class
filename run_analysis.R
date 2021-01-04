@@ -54,5 +54,5 @@ Tidy.df = complete.data %>% group_by(`Subject ID`,Activity) %>%  summarise_if(is
 Tidy.df = arrange(Tidy.df,Tidy.df$`Subject ID`)
 
 # Write the datatable
-#write.csv("Summarized Tidy Dataframe",Tidy.df)
+write.csv(Tidy.df,"Summarized Tidy Dataframe.csv")
 
