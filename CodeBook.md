@@ -34,9 +34,9 @@ Script Algorithim:
 2) Consolidate test and train sets into individual datatables for predictor, response, and subject variables
 3) Assign Descriptive Variable names to Activities and Subjects 
 
-  a) Activies include Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, and Laying
+     a) Activies include Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, and Laying
   
-  b) 30 Subjects participated in the original study
+      b) 30 Subjects participated in the original study
   
 4) Reduce number of predictor variables to only include measurements on the mean and standard deviation for each measurement * Identified by mean() or sd() within original dataset
 5) Combine predictor, response, and subject variables into a single dataframe
