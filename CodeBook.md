@@ -40,9 +40,9 @@ Script Algorithim:
 6) Establish each subject and activity as a factor variable
 7) Rename predictor variables with more descriptive variable names
 8) Create a second tidy dataset containing the mean for each predictor variable across all observations for each Subject and Activities
-9) Write tidy dataframe as a csv file
+9) Write tidy dataframe as a text file
 
-### Output CSV 
+### Output Text 
 
 The output file will contain the following variable names.
 
